@@ -1,0 +1,21 @@
+{
+	"name": "hardboiled-es",
+	"title": "Hardboiled: Compendio en español",
+	"description": "Compendio en español para el sistema Hardboiled",
+	"version": "0.0.1",
+	"author": "sharcashmo",
+	"minimumCoreVersion": "0.7.5",
+	"compatibleCoreVersion": "0.7.7",
+	"packs": [],
+	"dependencies": [
+		{
+			"name": "hardboiled",
+			"type": "system",
+			"manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled/master/system.json"
+		}
+	],
+	"system": "hardboiled",
+	"manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/module.json",
+	"license": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/LICENSE.txt",
+	"readme": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/README.md"
+}
