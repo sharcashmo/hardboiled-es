@@ -6,12 +6,13 @@
 	"author": "sharcashmo",
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.7",
-	"packs": [],
-	"dependencies": [
+	"packs": [
 		{
-			"name": "hardboiled",
-			"type": "system",
-			"manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled/master/system.json"
+			"name": "habilidades",
+			"label": "Habilidades",
+			"system": "hardboiled",
+			"path": "./packs/habilidades.db",
+			"entity": "Item"
 		}
 	],
 	"system": "hardboiled",
