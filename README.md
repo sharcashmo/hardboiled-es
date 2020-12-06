@@ -79,16 +79,23 @@ Instalar en Foundry VTT en la pestaña de Módulos utilizando el siguiente manif
 
 ## ¿Qué hay implementado?
 
-Version 0.0.1 :
+Versión 0.0.2 :
 
-* Compatible con la versión del sistema Hardboiled 0.0.3
-  * Compendio de Habilidades
-  * Iconos para las Habilidades y las Dotes (de The Noun Project (https://thenounproject.com/).
+* Compendio de Dotes.
+
+Versión 0.0.1 :
+
+* Compatible con la versión del sistema Hardboiled 0.0.3.
+  * Compendio de Habilidades.
+  * Iconos para las Habilidades y las Dotes (de The Noun Project <https://thenounproject.com/>).
 
 ## Planes
 
-* [ ] Compendio de Dotes.
 * [ ] Compendio de Profesiones.
+
+### Version 0.0.2
+
+* [X] Compendio de Dotes.
 
 ### Version 0.0.1
 

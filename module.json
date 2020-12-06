@@ -13,6 +13,13 @@
 			"system": "hardboiled",
 			"path": "./packs/habilidades.db",
 			"entity": "Item"
+		},
+		{
+			"name": "dotes",
+			"label": "Dotes",
+			"system": "hardboiled",
+			"path": "./packs/dotes.db",
+			"entity": "Item"
 		}
 	],
 	"system": "hardboiled",
