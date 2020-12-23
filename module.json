@@ -2,10 +2,10 @@
 	"name": "hardboiled-es",
 	"title": "Hardboiled: Compendio en español",
 	"description": "Compendio en español para el sistema Hardboiled",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "sharcashmo",
 	"minimumCoreVersion": "0.7.5",
-	"compatibleCoreVersion": "0.7.8",
+	"compatibleCoreVersion": "0.7.9",
 	"packs": [
 		{
 			"name": "habilidades",
@@ -26,5 +26,6 @@
 	"manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/module.json",
 	"license": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/LICENSE",
 	"readme": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/README.md",
-	"download": "https://github.com/sharcashmo/hardboiled-es/archive/V0.0.2.zip"
+	"download": "https://github.com/sharcashmo/hardboiled-es/archive/V0.0.3.zip",
+	"url": "https://github.com/sharcashmo/hardboiled-es/"
 }
