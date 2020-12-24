@@ -80,7 +80,7 @@ Instalar en Foundry VTT en la pestaña de Módulos utilizando el siguiente manif
 
 Versión 0.0.3 :
 
-* Requiere la versión 0.0.4 del sistema Hardboiled.
+* Requiere la versión 0.0.5 del sistema Hardboiled.
 * TODO: Iconos para Armas.
 * TODO: Compendio de Armas.
 * TODO: Iconos para Equipo.
