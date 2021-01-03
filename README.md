@@ -8,7 +8,7 @@ Este es un módulo con el contenido mínimo creado para jugar unas partidas de H
 
 ## Información de licencia
 
-Este módulo está desarrollados por sharcashmo y publicado bajo la licencia MIT. Ver
+Este módulo está desarrollado por sharcashmo y publicado bajo la licencia CC BY-SA 4.0. Ver
 <https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/LICENSE>
 
 Hardboiled es un juego de rol escrito por Pedro Gil y Jaime Conill Querol, y publicado bajo la licencia
