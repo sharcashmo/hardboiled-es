@@ -15,14 +15,14 @@
 			"name": "habilidades",
 			"label": "Habilidades",
 			"system": "hardboiled",
-			"path": "./packs/habilidades.db",
+			"path": "packs/habilidades",
 			"type": "Item"
 		},
 		{
 			"name": "dotes",
 			"label": "Dotes",
 			"system": "hardboiled",
-			"path": "./packs/dotes.db",
+			"path": "packs/dotes",
 			"type": "Item"
 		}
 	],
