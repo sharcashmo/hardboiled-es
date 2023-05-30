@@ -1,34 +1,35 @@
 {
-	"name": "hardboiled-es",
-	"title": "Hardboiled: Compendio en español",
-	"description": "Compendio en español para el sistema Hardboiled",
-	"version": "0.0.3",
-	"author": "sharcashmo",
-	"minimumCoreVersion": "0.7.5",
-	"compatibleCoreVersion": "11",
-	"compatibility": {
-		"minimum": "0.7.5",
-		"verified": "11.299"
-	},
-	"packs": [
-		{
-			"name": "habilidades",
-			"label": "Habilidades",
-			"system": "hardboiled",
-			"path": "packs/habilidades",
-			"type": "Item"
-		},
-		{
-			"name": "dotes",
-			"label": "Dotes",
-			"system": "hardboiled",
-			"path": "packs/dotes",
-			"type": "Item"
-		}
-	],
-	"system": "hardboiled",
-	"manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/module.json",
-	"license": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/LICENSE",
-	"readme": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/README.md",
-	"download": "https://github.com/sharcashmo/hardboiled-es/archive/V0.0.3.zip"
+  "title": "Hardboiled: Compendio en español",
+  "description": "Compendio en español para el sistema Hardboiled",
+  "version": "0.0.3",
+  "packs": [
+    {
+      "label": "Habilidades",
+      "name": "habilidades",
+      "type": "Item",
+      "system": "hardboiled",
+      "path": "packs/habilidades"
+    },
+    {
+      "label": "Dotes",
+      "name": "dotes",
+      "type": "Item",
+      "system": "hardboiled",
+      "path": "packs/dotes"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/module.json",
+  "license": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/LICENSE",
+  "readme": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/README.md",
+  "download": "https://github.com/sharcashmo/hardboiled-es/archive/V0.0.3.zip",
+  "id": "hardboiled-es",
+  "authors": [
+    {
+      "name": "sharcashmo"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.299"
+  }
 }
