@@ -4,28 +4,18 @@
   "version": "0.0.3",
   "packs": [
     {
-      "name": "habilidades",
       "label": "Habilidades",
-      "system": "hardboiled",
-      "path": "packs/habilidades.db",
+      "name": "habilidades",
       "type": "Item",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "system": "hardboiled",
+      "path": "packs/habilidades"
     },
     {
-      "name": "dotes",
       "label": "Dotes",
-      "system": "hardboiled",
-      "path": "packs/dotes.db",
+      "name": "dotes",
       "type": "Item",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "system": "hardboiled",
+      "path": "packs/dotes"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/sharcashmo/hardboiled-es/master/module.json",
