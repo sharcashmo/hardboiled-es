@@ -79,6 +79,14 @@ Instalar en Foundry VTT en la pestaña de Módulos utilizando el siguiente manif
 
 ## ¿Qué hay implementado?
 
+Versión 0.0.4 :
+
+* Cambiar la declaración de compatibilidad a la versión 11 de FoundryVTT.
+
+Versión 0.0.3 :
+
+* Actualizar para funcionar con la versión 11 de FoundryVTT.
+
 Versión 0.0.2 :
 
 * Compendio de Dotes.
